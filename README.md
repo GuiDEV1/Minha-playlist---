@@ -3,6 +3,10 @@
 <img width = '200px' src = 'https://cdn.discordapp.com/attachments/775040352004472833/1012195357104549888/picwish.png' alt =''>
 
   <a href="https://www.figma.com/proto/GqJD8OKJKsbsLafEI0xrOM/P%C3%A1gina-Album-de-m%C3%BAsica?node-id=1%3A2&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2">    Clique aqui para Visualizar o Projeto</a>
+  
+  <h2 style="color: blueviolet;">Pré-visualização</h2> <br>
+  
+  <img src="https://cdn.discordapp.com/attachments/773372240686350356/1023471762333257750/print_minha_pagina_de_musica.png">
 
  <h2>Tecnologias usadas nesse projeto.</h2>
  
