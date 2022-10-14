@@ -24,6 +24,20 @@
   Com interface , navegação, interação com o usúario. 
 </p> <br>
 
+<h4>Mais sobre essa atividade</h4>
+
+<p>
+    Hoje a ideia é bem simples: crie um álbum de músicas que você goste, mas não só isso. Essas músicas precisam refletir aspectos das sua vida.
+   A ideia é que alguém possa te conhecer através daquilo que você ouve.
+   Esse álbum precisa ter uma pagina inicial e cada música será uma página separada, com letra e (se você quiser) um vídeo com um clipe ou montagem da música. O álbum   não precisa ser de um artista só e nem toda música tem letra.
+  A ideia é que esse álbum seja um trabalho completo, então queremos ver o wireframe, o protótipo e as telas prontas.
+  No Github você vai colocar não só todos os arquivos do projeto como um arquivo readme contando como foi o desenvovimento todo. Aqui temos algumas instruções
+  Utilize sua ferramenta de prototipagem para testar o seu layout em várias telas diferentes e experimente um pouco.
+  Por fim, não esqueça de postar esse projeto no Linkedin.
+</p>
+
+
+
 <h2>Plugins utilizados.</h2>
 
  <ul>
